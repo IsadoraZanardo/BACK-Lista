@@ -23,7 +23,7 @@ Para mais informações acesse [Aula 01: Paradigma POO.](https://cainaantunes.no
     **Descrição:**
     ```mermaid
         classDiagram
-        class Account{
+            class Account{
             - Number : int
             - Value : double
             - Name : string
@@ -48,7 +48,7 @@ Para mais informações acesse [Aula 01: Paradigma POO.](https://cainaantunes.no
     **Descrição:**
     ```mermaid
         classDiagram
-        class Arquivo{
+            class Arquivo{
             - Name : string
             - Size : int
             - Content : string
@@ -77,7 +77,7 @@ Para mais informações acesse [Aula 01: Paradigma POO.](https://cainaantunes.no
     **Descrição:**
     ```mermaid
         classDiagram
-        class Character{
+            class Character{
             - Name : string
             - Life : int
             - Attack : int
