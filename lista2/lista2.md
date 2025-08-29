@@ -22,7 +22,7 @@ Para mais informações acesse [Aula 01: Paradigma POO.](https://cainaantunes.no
     
     **Descrição:**
     ```mermaid
-        classDiagram
+            classDiagram
             class Account{
             - Number : int
             - Value : double
