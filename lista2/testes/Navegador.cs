@@ -1,0 +1,6 @@
+namespace Internet;
+
+class Navegador
+{
+    
+}

@@ -1,0 +1,6 @@
+namespace Arquivos;
+
+class Arquivo
+{
+    
+}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ex2_fileEdit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fb3cf1bfbbd406eb25ab35cd5adb83c49ea872e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d24c1733e7c99d875950e23d023eec2ff7a01b6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ex2_fileEdit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ex2_fileEdit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
