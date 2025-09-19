@@ -1,0 +1,15 @@
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\obj\Debug\net9.0\ex2_fileEdit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\obj\Debug\net9.0\ex2_fileEdit.AssemblyInfoInputs.cache
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\obj\Debug\net9.0\ex2_fileEdit.AssemblyInfo.cs
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\obj\Debug\net9.0\ex2_fileEdit.csproj.CoreCompileInputs.cache
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\obj\Debug\net9.0\ex2_fileEdit.sourcelink.json
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\bin\Debug\net9.0\ex2_fileEdit.exe
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\bin\Debug\net9.0\ex2_fileEdit.deps.json
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\bin\Debug\net9.0\ex2_fileEdit.runtimeconfig.json
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\bin\Debug\net9.0\ex2_fileEdit.dll
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\bin\Debug\net9.0\ex2_fileEdit.pdb
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\obj\Debug\net9.0\ex2_fileEdit.dll
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\obj\Debug\net9.0\refint\ex2_fileEdit.dll
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\obj\Debug\net9.0\ex2_fileEdit.pdb
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\obj\Debug\net9.0\ex2_fileEdit.genruntimeconfig.cache
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex2_fileEdit\obj\Debug\net9.0\ref\ex2_fileEdit.dll

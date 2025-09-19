@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isadora Zanardo\\Desktop\\ADS\\2 SEM\\Backend - Cainã (qui)\\LISTAS\\lista2\\ex1_bankAccount\\ex1_bankAccount.csproj": {}
+    "C:\\Users\\Isadora Zanardo\\Desktop\\ADS\\2 SEM\\Backend - Cainã (qui)\\LISTAS\\lista2\\ex2_fileEdit\\ex2_fileEdit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isadora Zanardo\\Desktop\\ADS\\2 SEM\\Backend - Cainã (qui)\\LISTAS\\lista2\\ex1_bankAccount\\ex1_bankAccount.csproj": {
+    "C:\\Users\\Isadora Zanardo\\Desktop\\ADS\\2 SEM\\Backend - Cainã (qui)\\LISTAS\\lista2\\ex2_fileEdit\\ex2_fileEdit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isadora Zanardo\\Desktop\\ADS\\2 SEM\\Backend - Cainã (qui)\\LISTAS\\lista2\\ex1_bankAccount\\ex1_bankAccount.csproj",
-        "projectName": "ex1_bankAccount",
-        "projectPath": "C:\\Users\\Isadora Zanardo\\Desktop\\ADS\\2 SEM\\Backend - Cainã (qui)\\LISTAS\\lista2\\ex1_bankAccount\\ex1_bankAccount.csproj",
+        "projectUniqueName": "C:\\Users\\Isadora Zanardo\\Desktop\\ADS\\2 SEM\\Backend - Cainã (qui)\\LISTAS\\lista2\\ex2_fileEdit\\ex2_fileEdit.csproj",
+        "projectName": "ex2_fileEdit",
+        "projectPath": "C:\\Users\\Isadora Zanardo\\Desktop\\ADS\\2 SEM\\Backend - Cainã (qui)\\LISTAS\\lista2\\ex2_fileEdit\\ex2_fileEdit.csproj",
         "packagesPath": "C:\\Users\\Isadora Zanardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isadora Zanardo\\Desktop\\ADS\\2 SEM\\Backend - Cainã (qui)\\LISTAS\\lista2\\ex1_bankAccount\\obj\\",
+        "outputPath": "C:\\Users\\Isadora Zanardo\\Desktop\\ADS\\2 SEM\\Backend - Cainã (qui)\\LISTAS\\lista2\\ex2_fileEdit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Isadora Zanardo\\AppData\\Roaming\\NuGet\\NuGet.Config"

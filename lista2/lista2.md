@@ -21,7 +21,7 @@ Para mais informações acesse [Aula 01: Paradigma POO.](https://cainaantunes.no
     >**Contexto:** Construa um sistema simples de gerenciamento de contas bancárias.
     
     **Descrição:**
-    ```mermaid
+        ```mermaid
             classDiagram
             class Account{
             - Number : int
