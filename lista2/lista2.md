@@ -80,9 +80,12 @@ Para mais informações acesse [Aula 01: Paradigma POO.](https://cainaantunes.no
             class Character{
             - Name : string
             - Life : int
-            - Attack : int
-            - Defense : int
+            - PowerAttack : int
+            - PowerDefense : int
+            - IsAlive : bool
             + Attack (Character opponent) : void
+            + Damage (int value): void
+            - PowerGenerate (int min, int max): int
         }
     ```
     

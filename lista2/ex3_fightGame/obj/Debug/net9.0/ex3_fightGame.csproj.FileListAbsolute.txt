@@ -1,0 +1,14 @@
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex3_fightGame\obj\Debug\net9.0\ex3_fightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex3_fightGame\obj\Debug\net9.0\ex3_fightGame.AssemblyInfoInputs.cache
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex3_fightGame\obj\Debug\net9.0\ex3_fightGame.AssemblyInfo.cs
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex3_fightGame\obj\Debug\net9.0\ex3_fightGame.csproj.CoreCompileInputs.cache
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex3_fightGame\bin\Debug\net9.0\ex3_fightGame.exe
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex3_fightGame\bin\Debug\net9.0\ex3_fightGame.deps.json
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex3_fightGame\bin\Debug\net9.0\ex3_fightGame.runtimeconfig.json
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex3_fightGame\bin\Debug\net9.0\ex3_fightGame.dll
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex3_fightGame\bin\Debug\net9.0\ex3_fightGame.pdb
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex3_fightGame\obj\Debug\net9.0\ex3_fightGame.dll
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex3_fightGame\obj\Debug\net9.0\refint\ex3_fightGame.dll
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex3_fightGame\obj\Debug\net9.0\ex3_fightGame.pdb
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex3_fightGame\obj\Debug\net9.0\ex3_fightGame.genruntimeconfig.cache
+C:\Users\Isadora Zanardo\Desktop\ADS\2 SEM\Backend - Cainã (qui)\LISTAS\lista2\ex3_fightGame\obj\Debug\net9.0\ref\ex3_fightGame.dll
